@@ -52,7 +52,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const serviceData = {
         pinjaman:{
-            title:"PINJAMAN DANA",
+            title:"AJUKAN PINJAMAN",
             banner:"assets/banner-pinjaman.png",
             button:"Ajukan Pinjaman",
             note:"Dengan melanjutkan, Anda menyetujui proses pengajuan sesuai ketentuan yang berlaku.",
